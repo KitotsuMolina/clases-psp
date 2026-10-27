@@ -1,3 +1,10 @@
+/*
+ * Ejecutar en Windows con un JDK instalado, desde la carpeta hoja1.
+ * Compilar: javac -encoding UTF-8 Ejercicio04.java
+ * Ejecutar: java Ejercicio04 notepad.exe "C:\Mis documentos\notas.txt"
+ * Argumentos obligatorios: comando y ruta del fichero, en ese orden.
+ * Si el comando o la ruta contienen espacios, ponerlos entre comillas.
+ */
 import java.io.IOException;
 
 public class Ejercicio04 {

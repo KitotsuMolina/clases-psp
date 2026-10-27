@@ -1,3 +1,10 @@
+/*
+ * Ejecutar en Windows con un JDK instalado, desde la carpeta hoja1.
+ * Compilar: javac -encoding UTF-8 Ejercicio06.java
+ * Ejecutar: java Ejercicio06
+ * Argumentos: no necesita.
+ * Cerrar Bloc de notas para que termine la espera del padre.
+ */
 import java.io.IOException;
 
 public class Ejercicio06 {

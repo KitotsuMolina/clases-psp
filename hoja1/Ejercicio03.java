@@ -1,3 +1,10 @@
+/*
+ * Ejecutar en Windows con un JDK instalado, desde la carpeta hoja1.
+ * Compilar: javac -encoding UTF-8 Ejercicio03.java
+ * Ejecutar: java Ejercicio03 "C:\Mis documentos\notas.txt"
+ * Argumento opcional: ruta del fichero que abrirá Bloc de notas.
+ * Sin argumentos: java Ejercicio03 (intentará abrir ejemplo.txt).
+ */
 import java.io.IOException;
 
 public class Ejercicio03 {

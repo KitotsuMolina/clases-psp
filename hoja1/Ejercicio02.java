@@ -1,3 +1,9 @@
+/*
+ * Ejecutar en Windows con un JDK instalado, desde la carpeta hoja1.
+ * Compilar: javac -encoding UTF-8 Ejercicio02.java
+ * Ejecutar: java Ejercicio02
+ * Argumentos: no necesita.
+ */
 import java.io.IOException;
 
 public class Ejercicio02 {

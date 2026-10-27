@@ -1,3 +1,10 @@
+/*
+ * Ejecutar en Windows con un JDK instalado, desde la carpeta hoja1.
+ * Compilar: javac -encoding UTF-8 Ejercicio09.java
+ * Ejecutar: java Ejercicio09
+ * Argumentos: no necesita.
+ * Cerrar manualmente la calculadora antes de que pasen 10 segundos.
+ */
 import java.io.IOException;
 
 public class Ejercicio09 {
